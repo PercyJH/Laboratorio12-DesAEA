@@ -1,0 +1,17 @@
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\SERVICE.dll.config
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\SERVICE.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\SERVICE.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\EntityFramework.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\DOMAIN.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\EntityFramework.xml
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\obj\Debug\SERVICE.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\obj\Debug\SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\obj\Debug\SERVICE.csproj.CopyComplete
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\obj\Debug\SERVICE.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\SERVICE\obj\Debug\SERVICE.pdb

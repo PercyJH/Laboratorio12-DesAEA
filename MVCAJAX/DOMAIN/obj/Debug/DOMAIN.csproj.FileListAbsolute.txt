@@ -1,0 +1,6 @@
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\DOMAIN\obj\Debug\DOMAIN.pdb

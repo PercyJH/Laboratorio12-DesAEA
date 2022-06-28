@@ -1,0 +1,16 @@
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll.config
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\INFRAESTRUCTURE.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\DOMAIN.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.xml
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.CopyComplete
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.dll
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.pdb
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.Migrations.v2.resources
+C:\Users\percy\source\repos\lab-12\MVCAJAX\INFRAESTRUCTURE\obj\Debug\INFRAESTRUCTURE.csproj.GenerateResource.cache
